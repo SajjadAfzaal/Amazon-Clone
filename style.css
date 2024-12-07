@@ -17,7 +17,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("/images/original\ logo.png");
+    background-image: url("images/original\ logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -135,7 +135,7 @@ p-deals{
 /** hero section **/
 
 .hero{
-    background-image: url(/images/HERO\ FLEX.jpg);
+    background-image: url(images/HERO\ FLEX.jpg);
     background-size: cover;
     height: 350px;
 }
@@ -229,7 +229,7 @@ ul a:hover{
 }
 
 .logo{
-    background-image: url("/images/original\ logo.png");
+    background-image: url("images/original\ logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
